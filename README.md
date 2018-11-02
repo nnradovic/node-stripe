@@ -30,3 +30,7 @@ To serve in the browser
 ```sh
 $ npm start
 ```
+
+### Try App on
+
+https://pure-reaches-27757.herokuapp.com/
