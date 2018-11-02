@@ -30,6 +30,3 @@ To serve in the browser
 ```sh
 $ npm start
 ```
-
-## App Info
-
